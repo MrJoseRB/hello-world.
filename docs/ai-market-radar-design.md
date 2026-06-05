@@ -93,6 +93,10 @@ cron los lunes **y** a mano desde `iPhone → Tailscale → Termius → tmux →
 Ubicación: `🏢 Jose AI Business HQ → 🤖 AI Operating System`
 (page id `352f666c-275b-81ef-9766-f2df8e2a79da`).
 
+> ✅ **DB creada vía MCP** — id `91a123f134be487f8422d728cdd847ab`
+> · URL https://app.notion.com/p/91a123f134be487f8422d728cdd847ab
+> · sembrada con 1 fila de ejemplo (Remotion, score 82) para validar el esquema.
+
 | Propiedad | Tipo | Notas |
 |---|---|---|
 | Herramienta | Title | — |
